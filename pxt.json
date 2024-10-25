@@ -11,7 +11,8 @@
         "main.ts",
         "README.md",
         "Tutorial.md",
-        "docs/img.ts"
+        "docs/img.ts",
+        "docs/test1.png.ts"
     ],
     "testFiles": [
         "test.ts"
