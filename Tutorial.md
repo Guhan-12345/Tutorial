@@ -24,7 +24,3 @@ input.onGesture(Gesture.Shake, function() {
 })
 
 
-<script src="https://makecode.com/gh-pages-embed.js"></script>
-<script>
-  makeCodeRender("https://makecode.microbit.org/", "Guhan-12345/Tutorial");
-</script>
