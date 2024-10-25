@@ -2,7 +2,7 @@
 
 ## {Introduction @unplugged}
 
-![Cartoon of the Rock Paper Scissors game](https://raw.githubusercontent.com/Guhan-12345/Tutorial/master/docs/static/test1.png)
+![Cartoon of the Rock Paper Scissors game](docs/static/S1.png)
 
 
 Turn your micro:bit into a **Rock Paper Scissors** game that you can play with your friends!
