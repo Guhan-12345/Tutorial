@@ -2,7 +2,7 @@
 
 ## {Introduction @unplugged}
 
-![Cartoon of the Rock Paper Scissors game](https://drive.google.com/file/d/1Um9zWNdM1HOHwPTSBYEqqJaABLsviJcf/view?usp=sharing)
+![Cartoon of the Rock Paper Scissors game](https://drive.usercontent.google.com/download?id=1Um9zWNdM1HOHwPTSBYEqqJaABLsviJcf&authuser=0)
 
 
 Turn your micro:bit into a **Rock Paper Scissors** game that you can play with your friends!
