@@ -2,7 +2,7 @@
 
 ## {Introduction @unplugged}
 
-![Description of Image](https://static.wixstatic.com/media/ecb02e_56579004a4fe4bc7bf4f2c31f6f04a99~mv2.png)
+![Description of Image](https://raw.githubusercontent.com/Guhan-12345/Source/main/Piano/S1.png)
 
 
 Turn your micro:bit into a **Rock Paper Scissors** game that you can play with your friends!
